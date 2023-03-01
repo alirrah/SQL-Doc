@@ -34,3 +34,13 @@ oracle
 nosql systems donot understand sql
 
 ## Installation
+
+open browser 
+go to www.mysql.com
+go to downloads
+scroll down
+mysql community edition
+mysql community server
+
+graphical environment
+mysql workbench
